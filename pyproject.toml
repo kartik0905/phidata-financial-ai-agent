@@ -1,0 +1,16 @@
+[project]
+name = "agenticai-phi-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckduckgo-search>=8.1.1",
+    "fastapi>=0.119.0",
+    "groq>=0.32.0",
+    "packaging>=25.0",
+    "phidata>=2.7.10",
+    "python-dotenv>=1.1.1",
+    "uvicorn>=0.37.0",
+    "yfinance>=0.2.66",
+]
