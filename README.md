@@ -39,7 +39,7 @@ Features include:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/kartik0905/phidata-financial-ai-agent>
 cd AgenticAI-Phi-data
 ```
 
